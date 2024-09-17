@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # BDD base project: Cypress + Cucumber + Typescript
@@ -123,3 +124,6 @@ npm run lint:tsc
 # License
 
 [MIT](./LICENSE)
+=======
+# TJM_folio3
+>>>>>>> a833564440eb985014df6c255f8996440526456c
